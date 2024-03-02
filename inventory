@@ -1,2 +1,5 @@
-diza@192.168.5.130
+[web_servers]
+diza@192.168.5.130 
+
+[db_servers]
 dizas@192.168.5.131
