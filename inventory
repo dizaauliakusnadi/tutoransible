@@ -3,3 +3,6 @@ diza@192.168.5.130
 
 [db_servers]
 dizas@192.168.5.131
+
+[workstations]
+workstation@192.168.5.132
